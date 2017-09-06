@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PigDiceProject {
 	class Program {
-		static void Main(string[] args) { 
+		static void Main(string[] args) {  
 		}
 	}
 }
